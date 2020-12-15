@@ -5,5 +5,8 @@ function test(){
 function doSomething(){
 	console.log('dodododo~~~~~');
 }
+
+
+
 test();
 doSomething();
