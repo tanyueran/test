@@ -3,10 +3,7 @@ function test(){
 	console.log('test——1');
 }
 function doSomething(){
-	console.log('dodododo~~~~~');
+	console.log('dodododo~~~~~1111');
 }
-
-
-
 test();
 doSomething();
